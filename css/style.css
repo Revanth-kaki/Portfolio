@@ -12,10 +12,12 @@
 }
 
 :root {
-  --bg-color: #081b29;
-  --second-bg-color: #112e42;
-  --text-color: #ededed;
-  --main-color: #00abf0;
+  --bg-color: #081b29; /*The main Page color*/
+  --second-bg-color: #05141f; /*Second Backgroung*/
+  --text-color: #ededed; /*Text color*/
+  --main-color: #00acf0; /*Main color*/
+  --grey-bg-color: #00acf0; /* Light blue background */
+  --grey-text-color: #c0c7ce; /* Grey text */
 }
 
 html {
@@ -86,10 +88,23 @@ section {
   display: flex;
   align-items: center;
   padding: 0 9%;
-  background-image: url("../images/home.jpg");
+  background-image: url("../images/Portfolio\ alternative.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  position: relative;
+  isolation: isolate;
+  filter: hue-rotate(
+    10deg
+  ); /* Adjust the degree value as needed for your desired hue effect */
+}
+.home::after {
+  content: "";
+  position: absolute;
+  background: var(--bg-color);
+  inset: 0;
+  opacity: 0.7;
+  z-index: -1;
 }
 
 .home-content {

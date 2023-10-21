@@ -17,7 +17,6 @@ Visit the live website Preview : [Davy's Portfolio](https://github.com/davyleroy
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 

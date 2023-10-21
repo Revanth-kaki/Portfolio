@@ -20,19 +20,19 @@ Visit the live website Preview : [Davy's Portfolio](https://github.com/davyleroy
 
 ## Features
 
-The Jacob Aiden Portfolio Website includes the following sections:
+My Portfolio Website includes the following sections:
 
-1. **Home Section**: The landing page that gives an overview of Jacob Aiden and introduces visitors to his work and skills.
+1. **Home Section**: The landing page that gives a personal overview of me and introduces visitors to his work and skills.
 
-2. **Education Section**: Displays details about Jacob Aiden's educational background and professional experience.
+2. **Education Section**: Displays details about my educational background and professional experience.
 
-3. **Skills Section**: Highlights the various technical skills possessed by Jacob Aiden, which showcases his expertise in Frontend Development.
+3. **Skills Section**: Highlights my various technical skills possessed, which showcases his expertise in Fullstack (Frontend & Backend) Development.
 
 4. **Contact Section**: Provides visitors with a means to get in touch with Jacob Aiden for potential collaboration or inquiries.
 
 ## Technologies Used
 
-The portfolio website is developed using the following technologies:
+My portfolio website is developed using the following technologies:
 
 - HTML5
 - CSS3
@@ -57,10 +57,11 @@ Once the website is loaded, navigate through the different sections to explore m
 ![Screenshot 1](./screenshots/prev2.png)
 ![Screenshot 2](./screenshots/prev3.png)
 ![Screenshot 3](./screenshots/prev4.png)
+![Screenshot 4](./screenshots/prev5.png)
 
 ## Contributing
 
-Feel free to contact Me on any socials of Mine. 
+You can contact Me on any socials of Mine :wink: . 
 ---
 
 Thank you for visiting this repository and checking out my Portfolio Website! I hope you enjoy exploring the projects and skills showcased here.

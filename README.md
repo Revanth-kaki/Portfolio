@@ -1,12 +1,12 @@
-# Jacob Aiden - Portfolio Website
+# Davy Mbuto NKURUNZIZA - Portfolio Website
 
-![Jacob Aiden Portfolio](./screenshots/prev1.png)
+![Davy Portfolio](./screenshots/prev1.png)
 
 ## Introduction
 
-Welcome to the GitHub repository for Jacob Aiden's Portfolio Website! This project showcases the skills and projects of a Frontend Developer named Jacob Aiden. The website is created solely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a seamless experience across various devices.
+Welcome to the GitHub repository for Davy's Portfolio Website! This project showcases my skills and projects as a Fullstack Developer. The website is created entirely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a flawless and awesome experience across various devices.
 
-Visit the live website: [Jacob Aiden Portfolio](https://anton-ovod.github.io/Jacob_Aiden_Portfolio/)
+Visit the live website Preview : [Davy's Portfolio](https://github.com/davyleroy/Portfolio)
 
 ## Table of Contents
 
@@ -45,13 +45,13 @@ To run the portfolio website locally on your machine, follow these steps:
 
 1. Clone the GitHub repository to your local machine:
    ```
-   git clone https://github.com/anton-ovod/Jacob_Aiden_Portfolio.git
+   git clone https://github.com/davyleroy/Portfolio.git
    ```
 2. Open the `index.html` file in your web browser.
 
 ## Usage
 
-Once the website is loaded, navigate through the different sections to explore Jacob Aiden's portfolio, education, skills, and contact details. The website is designed to be intuitive and responsive, ensuring a seamless experience for users on all devices.
+Once the website is loaded, navigate through the different sections to explore my portfolio, education, skills, and contact details. The website is designed to be intuitive and responsive, ensuring a seamless experience for users on all devices.
 
 ## Screenshots
 
@@ -61,11 +61,7 @@ Once the website is loaded, navigate through the different sections to explore J
 
 ## Contributing
 
-Contributions to improve and enhance the portfolio website are always welcome! If you find any bugs, have suggestions, or want to add new features, please feel free to submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Feel free to contact Me on any socials of Mine. 
 ---
 
-Thank you for visiting this repository and checking out the Jacob Aiden Portfolio Website! I hope you enjoy exploring the projects and skills showcased here. Feel free to use this project as a reference to showcase your web development skills. Happy coding!
+Thank you for visiting this repository and checking out my Portfolio Website! I hope you enjoy exploring the projects and skills showcased here.

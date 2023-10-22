@@ -6,7 +6,7 @@
 
 Welcome to the GitHub repository for Davy's Portfolio Website! :star: This project showcases my skills and projects as a Fullstack Developer. The website is created entirely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a flawless and awesome experience across various devices.
 
-Visit the live website Preview : [Davy's Portfolio]([https://davyleroy.github.io/Portfolio/])
+Visit the live website Preview : [Davy's Portfolio](https://davyleroy.github.io/Portfolio/)
 
 ## Table of Contents
 

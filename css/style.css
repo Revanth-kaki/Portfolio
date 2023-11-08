@@ -957,3 +957,8 @@ section:nth-child(odd) .animate.scroll,
     width: 0;
   }
 }
+#msg {
+  color: #081b29;
+  margin-top: -10px;
+  display: block;
+}

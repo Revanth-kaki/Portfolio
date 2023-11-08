@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Welcome to the GitHub repository for Davy's Portfolio Website! This project showcases my skills and projects as a Fullstack Developer. The website is created entirely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a flawless and awesome experience across various devices.
+Welcome to the GitHub repository for Davy's Portfolio Website! :star: This project showcases my skills and projects as a Fullstack Developer. The website is created entirely using HTML, CSS, and JavaScript. The portfolio website is designed to be responsive and visually stunning, providing visitors with a flawless and awesome experience across various devices.
 
-Visit the live website Preview : [Davy's Portfolio](https://github.com/davyleroy/Portfolio)
+Visit the live website Preview : [Davy's Portfolio](https://davyleroy.github.io/Portfolio/)
 
 ## Table of Contents
 
@@ -17,6 +17,7 @@ Visit the live website Preview : [Davy's Portfolio](https://github.com/davyleroy
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
+- [Resources and acknoledgement](#Resources)
 
 ## Features
 
@@ -62,6 +63,16 @@ Once the website is loaded, navigate through the different sections to explore m
 ## Contributing
 
 You can contact Me on any socials of Mine :wink: . 
+
+## Resources and acknowledgment
+Thanks for the support in helping and contributing to the orchestration of my masterpiece guys :pray: :+1:
+
+![Youtube Link 1](https://www.youtube.com/watch?v=sQoiM7i5Nqc)
+
+![Youtube Link 2](https://www.youtube.com/watch?v=0YFrGy_mzjY)
+
+![Youtube Link 3](https://www.youtube.com/watch?v=T33NN_pPeNI)
+
 ---
 
-Thank you for visiting this repository and checking out my Portfolio Website! I hope you enjoy exploring the projects and skills showcased here.
+Thank you for visiting this repository and checking out my Portfolio Website! I hope you enjoy exploring the projects and skills showcased here.:muscle:

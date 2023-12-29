@@ -447,6 +447,10 @@ span {
   padding-top: 0.5rem;
 }
 
+.education-content .content img {
+  opacity: 0.55;
+}
+
 .skills {
   min-height: auto;
   padding-bottom: 7rem;
@@ -537,18 +541,22 @@ span {
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(2) .bar span {
-  width: 80%;
+  width: 87%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(3) .bar span {
-  width: 64%;
+  width: 67%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(4) .bar span {
-  width: 73%;
+  width: 85%;
 }
 
 .skills-column:nth-child(1) .skills-content .progress:nth-child(5) .bar span {
+  width: 73%;
+}
+
+.skills-column:nth-child(1) .skills-content .progress:nth-child(6) .bar span {
   width: 81%;
 }
 
@@ -557,7 +565,7 @@ span {
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(2) .bar span {
-  width: 68%;
+  width: 72%;
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(3) .bar span {
@@ -569,7 +577,11 @@ span {
 }
 
 .skills-column:nth-child(2) .skills-content .progress:nth-child(5) .bar span {
-  width: 62%;
+  width: 78%;
+}
+
+.skills-column:nth-child(2) .skills-content .progress:nth-child(6) .bar span {
+  width: 94%;
 }
 
 .contact {
